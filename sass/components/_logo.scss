@@ -1,0 +1,31 @@
+.header__logo {
+    position: absolute;
+        width: 134px;
+        height: 28px;
+        left: 15px;
+        top: 16px;
+    
+        text-decoration: none;
+        color: #000000;
+        margin-left: 15px;
+        margin-top: 16px;
+        margin-bottom: 16px;
+        font-family: 'Raleway';
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+    // font-family: 'Raleway', sans-serif;
+    // font-weight: 700;
+    // font-size: 26px;
+    // line-height: 1.19;
+    // text-decoration: none;
+    // color: #000000;
+    // margin-left: 0px;
+    // margin-right: 0;
+    // letter-spacing: 0.06em;
+}
+
+.logo__accent {
+    color: $accent-color;
+}  
